@@ -1,0 +1,2 @@
+# FujisawaCloudBuildTest
+UnityのCloudBuildテスト用リポジトリ
